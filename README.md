@@ -1,3 +1,5 @@
+[![Header](https://s3.gifyu.com/images/scumdestroybanner.md.gif)](https://scumdestroy.com)
+
 ### Hi there 👋
 
 <!--
