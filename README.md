@@ -1,6 +1,18 @@
 [![Header](https://s3.gifyu.com/images/scumdestroybanner.md.gif)](https://scumdestroy.com)
 
 ### Hi there 👋
+I break stuff so people that build stuff can build better stuff that breaks less.
+
+Blog about Penetration Testing, Hacking and Bug Bounty: https://scumdestroy.com
+
+
+![TryHackMe - Scumdestroy](https://tryhackme-badges.s3.amazonaws.com/scumdestroy.png)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jann-moon)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leatherchalice)
+
+
+
 
 <!--
 **scumdestroy/scumdestroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
