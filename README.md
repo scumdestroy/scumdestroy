@@ -5,6 +5,9 @@ I break stuff so people that build stuff can build better stuff that breaks less
 
 Blog about Penetration Testing, Hacking and Bug Bounty: https://scumdestroy.com
 
+CompTIA Pentest+
+eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)
+Python Institute PCEP
 
 ![TryHackMe - Scumdestroy](https://tryhackme-badges.s3.amazonaws.com/scumdestroy.png)
 
