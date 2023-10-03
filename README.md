@@ -1,13 +1,22 @@
 [![Header](https://s3.gifyu.com/images/scumdestroybanner.md.gif)](https://scumdestroy.com)
 
 ### Hi there 👋
-I break stuff so people that build stuff can build better stuff that breaks less.
+Offsec Cybermage casting technoincendiary spells to breaks stuff so people that build stuff can build better stuff that breaks less.
+
+### Certs
+OSCP
+eWPT
+eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)
+CompTIA Pentest+
+Python Institute PCEP
+
+### CVEs
+CVE-2023-3757 (critical SQLI in Rail Pass Management System Project in PHP" v 1.0)
+CVE-2023-5303 (Multiple Stored-XSS Discovered in Online Banquet Booking System v1.0 - includes 5304 and 5305)
+CVE-2023-5304
+CVE-2023-5305
 
 Blog about Penetration Testing, Hacking and Bug Bounty: https://scumdestroy.com
-
-CompTIA Pentest+
-eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)
-Python Institute PCEP
 
 ![TryHackMe - Scumdestroy](https://tryhackme-badges.s3.amazonaws.com/scumdestroy.png)
 
