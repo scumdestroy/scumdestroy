@@ -4,7 +4,7 @@
 Offsec Cybermage casting technoincendiary spells to breaks stuff so people that build stuff can build better stuff that breaks less.
 
 ### Certs
-OSCP
+OSCP\n
 eWPT
 eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)
 CompTIA Pentest+
