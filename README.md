@@ -15,6 +15,9 @@ Offsec Cybermage casting technoincendiary spells to breaks stuff so people that 
 - CVE-2023-5303 (Multiple Stored-XSS Discovered in Online Banquet Booking System v1.0 - includes 5304 and 5305)
 - CVE-2023-5304
 - CVE-2023-5305
+- CVE-2023-6074
+- CVE-2023-6075
+- CVE-2023-6076
 
 Blog about Penetration Testing, Hacking and Bug Bounty: https://scumdestroy.com
 
