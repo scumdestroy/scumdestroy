@@ -24,6 +24,10 @@ TryHackMe :: USA Top 10 and Global Top 50 (2021-2022)
 - CVE-2023-6074 (CVSS 9.8 SQLI in PHPGuruKui Restaurant Table Booking System 1.0)
 - CVE-2023-6075 (Stored XSS via Reservation Request Handler)
 - CVE-2023-6076 (CVSS 7.5 Information disclosure via booking-details.php)
+- CVE-2024-11484 (Code4Berry Decoration Management System 1.0 User Image update_image.php productimage1 access control)
+- CVE-2024-11485 (Code4Berry Decoration Management System 1.0 User userregister.php permission)
+- CVE-2024-11486 (Code4Berry Decoration Management System 1.0 User Permission user_permission.php)
+- CVE-2024-11487 (Code4Berry Decoration Management System 1.0 Between Dates Reports btndates_report.php fromdate/todate sql injection)
 
 
 
