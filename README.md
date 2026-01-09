@@ -1,27 +1,29 @@
-[![Header](https://i.imghippo.com/files/log1769fEU.gif)](https://scumdestroy.com)
-
 ### Hi there 👋
-Offsec Cybermage casting technoincendiary incantations across the internet so you can reassemble the pieces into something more impressive.  
 
-I wrote a book on recon for pentesters, bug bounty hunters and OSINT lifers recently - "Enumerating Esoteric Attack Surfaces" is the most comprehensive and esoteric tome on performing uncomfortably pervasive data sweeps against your target.  The hidden attack surfaces will go from subterranean whispers of ghosts to radioactive bioluminescent glowies after you read this book.     
+I am ...
+[![Header](https://i.imghippo.com/files/log1769fEU.gif)](https://scumdestroy.com)
+_Offsec cybermage invoking sanctioned Chaos upon web apps and APIs, reducing them to ruin and blessing developers with the inspiration to rebuild stronger. _
+
+- 📖 Author of "Enumerating Esoteric Attack Surfaces", a comprehensive reconnaissance tome focused on uncovering buried and heretical attack vectors through methodical, Inquisitorial-grade enumeration.     
 https://www.amazon.com/Enumerating-Esoteric-Attack-Surfaces-Penetration-ebook/dp/B0CWDPHHMR
 
 
-- 🔭 I’m currently working on extermination service on various bug bounty program(s), 
+- 🔭 I’m currently working on private criminal investigation cases for the Orange County Sherrif's Department, extermination service on various bug bounty program(s) and penetration tests for various clients (Web and Android apps).
 
-- 👯 I’m looking to collaborate on bounty programs or CTF teams!! Let's hack them to chunks!!
+- 👯 I’m looking to collaborate on bounty programs.
 
-- 🌱 I’m currently researching AI/ML hacking,  the pursuit of those juicy CVEs and zero days every day.
+- 🌱 I’m currently learning AI/ML hacking, red team evasion (Windows 11, EDRs), Godot and Golang. 
 
-### Certs
+### Certs 💯
 - OSCP
 - eWPT
 - eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester)
 - CompTIA Pentest+
 - Python Institute PCEP
 
-HackerOne :: 99th percentile
-TryHackMe :: USA Top 10 and Global Top 50 (2021-2022)
+#### Accolades 🏆
+- HackerOne :: 99th percentile
+- TryHackMe :: USA Top 10 and Global Top 50 (2021-2022)
 
 ### CVEs
 - CVE-2023-3757 (critical SQLI in Rail Pass Management System Project in PHP" v 1.0)
@@ -54,9 +56,7 @@ TryHackMe :: USA Top 10 and Global Top 50 (2021-2022)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
