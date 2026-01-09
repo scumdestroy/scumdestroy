@@ -1,10 +1,17 @@
-[![Header](https://s3.gifyu.com/images/scumdestroybanner.md.gif)](https://scumdestroy.com)
+[![Header](https://i.imghippo.com/files/log1769fEU.gif)](https://scumdestroy.com)
 
 ### Hi there 👋
 Offsec Cybermage casting technoincendiary incantations across the internet so you can reassemble the pieces into something more impressive.  
 
 I wrote a book on recon for pentesters, bug bounty hunters and OSINT lifers recently - "Enumerating Esoteric Attack Surfaces" is the most comprehensive and esoteric tome on performing uncomfortably pervasive data sweeps against your target.  The hidden attack surfaces will go from subterranean whispers of ghosts to radioactive bioluminescent glowies after you read this book.     
 https://www.amazon.com/Enumerating-Esoteric-Attack-Surfaces-Penetration-ebook/dp/B0CWDPHHMR
+
+
+- 🔭 I’m currently working on extermination service on various bug bounty program(s), 
+
+- 👯 I’m looking to collaborate on bounty programs or CTF teams!! Let's hack them to chunks!!
+
+- 🌱 I’m currently researching AI/ML hacking,  the pursuit of those juicy CVEs and zero days every day.
 
 ### Certs
 - OSCP
@@ -31,19 +38,15 @@ TryHackMe :: USA Top 10 and Global Top 50 (2021-2022)
 
 
 
-Blog about Penetration Testing, Hacking and Bug Bounty: https://scumdestroy.com
-
+<!-- Blog about Penetration Testing, Hacking and Bug Bounty: https://scumdestroy.com
+-->
 ![TryHackMe - Scumdestroy](https://tryhackme-badges.s3.amazonaws.com/scumdestroy.png)
 
+- 📫 How to reach me: ...
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jann-moon)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leatherchalice)
 
-- 🔭 I’m currently working on a deep, obsessive, Marianis-Trench level recon campaign against a single target web app while ignoring 135 private bug bounty program invitations 
-(Unauth Read/write on Internal Documents x 3, rXSS and Critical Information Disclosure x 2)
 
-- 👯 I’m looking to collaborate on bounty programs or CTF teams!! Let's hack them to chunks!!
-
-- 🌱 I’m currently researching GraphQL, Android Pentesting, Windows API/Malware Dev and the pursuit of those juicy CVEs and zero days every day.
 
 <!--
 **scumdestroy/scumdestroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,10 +55,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
